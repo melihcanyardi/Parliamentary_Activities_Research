@@ -1,4 +1,4 @@
-# Parliamentary_Activities_Research
+# Parliamentary Activities Research
 Data collection and analysis of parliamentary questions at Turkish Grand National Assembly
 
 
